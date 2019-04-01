@@ -6,4 +6,8 @@ x=30;}
 public void print(){
 system.out.println("java");
 }
+print()
+{
+system.out.println("Hello ..");
+}
 }
